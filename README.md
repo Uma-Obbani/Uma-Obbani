@@ -1,12 +1,17 @@
-Hello Data World, 
+👋 Hi, I'm Uma
 
-I am Uma  and passionate about transforming data into actionable insights. 
-I work primarily with **Tableau**, **SQL**, and **Python**, and have hands-on experience with  **data analysis** and **visualization** and **machine learning** 
+I'm passionate about transforming data into actionable insights to support data-driven decision-making. 
+I work primarily with **Tableau**, **SQL** and **Python** and have hands-on experience in **data analysis**, **data visualization** and **machine learning**.
 
 My recent projects focus on e-commerce analytics, customer segmentation and predictive modeling.
 
+📊 Interests:  
+- Visual analytics & dashboard design  
+- Customer segmentation & behavioral analysis  
+- Predictive modeling & automation  
+
 🔧 Tools & Skills:  
-`Python` | `Pandas` | `Scikit-learn` | `SQL` | `Tableau` | `Power BI` | `Git`  
+`Tableau` | `SQL` |`Python` | `Pandas` | `Scikit-learn` | DBT |Google Big Query | `Power BI` | `Git`  
 
 🚀 Currently working on:  
 - Data storytelling with real-world datasets  
@@ -16,5 +21,6 @@ My recent projects focus on e-commerce analytics, customer segmentation and pred
 LinkedIn:https://www.linkedin.com/in/uobbani/ 
 ---
 🗂️ Feel free to explore my repositories to see what I'm working on!
+
 
 
