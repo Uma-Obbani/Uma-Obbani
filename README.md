@@ -11,7 +11,7 @@ My recent projects focus on e-commerce analytics, customer segmentation and pred
 - Predictive modeling & automation  
 
 🔧 Tools & Skills:  
-`Tableau` | `SQL` |`Python` | `Pandas` | `Scikit-learn` | 'DBT' | 'Google Big Query' | `Power BI` | `Git`  
+`Tableau` | `SQL` |`Python` | `Pandas` | `Scikit-learn` | `DBT` | `Google Big Query` | `Power BI` | `Git`  
 
 🚀 Currently working on:  
 - Data storytelling with real-world datasets  
