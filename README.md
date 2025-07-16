@@ -1,26 +1,27 @@
-👋 Hi, I'm Uma
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Uma Obbani
+==================================================================================================================================
 
-I'm passionate about transforming data into actionable insights to support data-driven decision-making. 
-I work primarily with **Tableau**, **SQL** and **Python** and have hands-on experience in **data analysis**, **data visualization** and **machine learning**.
+Data & AI
+---------
 
-My recent projects focus on e-commerce analytics, customer segmentation and predictive modeling.
+* 🌍  I'm based in Berlin , Germany
+* 🖥️  See my portfolio at [LinkedIn](http://www.linkedin.com/in/uobbani/ )
+* ✉️  You can contact me at [maheswaree@gmail.com](mailto:maheswaree@gmail.com)
+* 🧠  I'm learning Generative AI
+* 🤝  I'm open to collaborating on Marketing DataScience Projects
 
-📊 Interests:  
-- Visual analytics & dashboard design  
-- Customer segmentation & behavioral analysis  
-- Predictive modeling & automation  
+<a href="https://www.github.com/Uma-Obbani" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/Uma-Obbani?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-🔧 Tools & Skills:  
-`Tableau` | `SQL` |`Python` | `Pandas` | `Scikit-learn` | `DBT` | `Google Big Query` | `Power BI` | `Git`  
+### Socials
 
-🚀 Currently working on:  
-- Data storytelling with real-world datasets  
-- Machine learning applications for business use cases  
+<p align="left"> <a href="https://www.github.com/Uma-Obbani" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="Github" title="Github" /> </picture> </a></p>
 
-📫 Let’s connect:  
-LinkedIn:https://www.linkedin.com/in/uobbani/ 
----
-🗂️ Feel free to explore my repositories to see what I'm working on!
+### Badges
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/Uma-Obbani/Uma-Obbani" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Uma-Obbani&repo=Uma-Obbani&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 
 
