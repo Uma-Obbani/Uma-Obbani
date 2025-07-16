@@ -23,6 +23,7 @@ src="https://img.shields.io/github/followers/Uma-Obbani?logo=github&style=for-th
 🛠 Tech Stack
 
 📊 Data & Analysis
+[Python 3.9](https://img.shields.io/badge/python-3.9-blue?logo=python)
 ![Static Badge](https://img.shields.io/badge/Python-red)
  Pandas NumPy Matplotlib Seaborn Scikit-learn SQL Excel
 
