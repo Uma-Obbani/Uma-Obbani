@@ -7,7 +7,7 @@ Data & AI
 * 🌍  I'm based in Berlin , Germany
 * 🖥️  See my portfolio at [LinkedIn](http://www.linkedin.com/in/uobbani/ )
 * ✉️  You can contact me at [maheswaree@gmail.com](mailto:maheswaree@gmail.com)
-* 🧠  I'm learning Generative AI
+* 🧠  I'm learning Lifelong learner passionate about AI — continuously upgrading my skills and building impactful projects.
 * 🤝  I'm open to collaborating on Marketing DataScience Projects
 
 <a href="https://www.github.com/Uma-Obbani" target="_blank" rel="noreferrer"><img
