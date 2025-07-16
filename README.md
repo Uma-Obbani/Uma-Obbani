@@ -24,7 +24,9 @@ src="https://img.shields.io/github/followers/Uma-Obbani?logo=github&style=for-th
 
 📊 Data & Analysis
 
-![Static Badge](https://img.shields.io/badge/PYTHON-red) ![Static Badge](https://img.shields.io/badge/PANDAS-blue)
+![Static Badge](https://img.shields.io/badge/PYTHON-red) ![Static Badge](https://img.shields.io/badge/PANDAS-blue) ![Static Badge](https://img.shields.io/badge/NUMPY-%20thickblue) ![Static Badge](https://img.shields.io/badge/MATPLOTLIB-%20orange)
+
+
 
 
  Pandas NumPy Matplotlib Seaborn Scikit-learn SQL Excel
