@@ -23,7 +23,7 @@ src="https://img.shields.io/github/followers/Uma-Obbani?logo=github&style=for-th
 🛠 Tech Stack
 
 📊 Data & Analysis
-Python Pandas NumPy Matplotlib Seaborn Scikit-learn SQL Excel
+https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white Pandas NumPy Matplotlib Seaborn Scikit-learn SQL Excel
 
 🧠 Machine & Deep Learning
 TensorFlow Keras PyTorch OpenCV CNN LSTM Transfer Learning
