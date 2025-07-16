@@ -18,3 +18,20 @@ src="https://img.shields.io/github/followers/Uma-Obbani?logo=github&style=for-th
 <p align="left"> <a href="https://www.github.com/Uma-Obbani" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="Github" title="Github" /> </picture> </a></p>
 
 ### Badges
+
+-------------------------------------------------------------------------------------------------------------------------------
+🛠 Tech Stack
+
+📊 Data & Analysis
+Python Pandas NumPy Matplotlib Seaborn Scikit-learn SQL Excel
+
+🧠 Machine & Deep Learning
+TensorFlow Keras PyTorch OpenCV CNN LSTM Transfer Learning
+
+💬 NLP & Generative AI
+spaCy NLTK Transformers TextBlob LangChain
+
+🧰 Tools & Workflow
+Jupyter Colab VS Code Git GitHub Streamlit Power BI
+
+
