@@ -35,9 +35,11 @@ src="https://img.shields.io/github/followers/Uma-Obbani?logo=github&style=for-th
 
  ![Static Badge](https://img.shields.io/badge/SPACY-blue)  ![Static Badge](https://img.shields.io/badge/NLTK-green)  ![Static Badge](https://img.shields.io/badge/TEXTBlob-red)
   ![Static Badge](https://img.shields.io/badge/TENSORFLOW-red)
-spaCy NLTK Transformers TextBlob LangChain
+
 
 🧰 Tools & Workflow
-Jupyter Colab VS Code Git GitHub Streamlit Power BI
+
+![Static Badge](https://img.shields.io/badge/TABLEAU-blue) ![Static Badge](https://img.shields.io/badge/JUPYTER-blue) ![Static Badge](https://img.shields.io/badge/COLAB-blue) ![Static Badge](https://img.shields.io/badge/GIT-blue)
+
 
 
