@@ -39,7 +39,7 @@ src="https://img.shields.io/github/followers/Uma-Obbani?logo=github&style=for-th
 
 🧰 Tools & Workflow
 
-![Static Badge](https://img.shields.io/badge/TABLEAU-blue) ![Static Badge](https://img.shields.io/badge/JUPYTER-blue) ![Static Badge](https://img.shields.io/badge/COLAB-blue) ![Static Badge](https://img.shields.io/badge/GIT-blue)
+![Static Badge](https://img.shields.io/badge/TABLEAU-blue) ![Static Badge](https://img.shields.io/badge/JUPYTER-green) ![Static Badge](https://img.shields.io/badge/COLAB-red) ![Static Badge](https://img.shields.io/badge/GIT-orange)
 
 
 
