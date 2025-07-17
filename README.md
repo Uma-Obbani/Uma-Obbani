@@ -29,10 +29,7 @@ src="https://img.shields.io/github/followers/Uma-Obbani?logo=github&style=for-th
 
 🧠 Machine & Deep Learning
 
-  ![Static Badge](https://img.shields.io/badge/SCKITLEARN-red) ![Static Badge](https://img.shields.io/badge/TENSORFLOW-red) ![Static Badge](https://img.shields.io/badge/KERAS-red) ![Static Badge](https://img.shields.io/badge/PYTORCH-red) ![Static Badge](https://img.shields.io/badge/OPENCV-red) ![Static Badge](https://img.shields.io/badge/PYTHON-red) ![Static Badge](https://img.shields.io/badge/PYTHON-red)
-
-
-TensorFlow Keras PyTorch OpenCV CNN LSTM Transfer Learning
+  ![Static Badge](https://img.shields.io/badge/SCKITLEARN-orange) ![Static Badge](https://img.shields.io/badge/TENSORFLOW-red) ![Static Badge](https://img.shields.io/badge/KERAS-blue) ![Static Badge](https://img.shields.io/badge/PYTORCH-green) ![Static Badge](https://img.shields.io/badge/OPENCV-20%red) 
 
 💬 NLP & Generative AI
 spaCy NLTK Transformers TextBlob LangChain
