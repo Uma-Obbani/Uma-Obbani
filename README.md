@@ -24,7 +24,7 @@ src="https://img.shields.io/github/followers/Uma-Obbani?logo=github&style=for-th
 
 📊 Data & Analysis
 
-![Static Badge](https://img.shields.io/badge/PYTHON-red) ![Static Badge](https://img.shields.io/badge/PANDAS-blue) ![Static Badge](https://img.shields.io/badge/NUMPY-%20thickblue) ![Static Badge](https://img.shields.io/badge/MATPLOTLIB-%20orange) ![Static Badge](https://img.shields.io/badge/SEABORN-%20red)  ![Static Badge]![Static Badge](https://img.shields.io/badge/SQL-%green) (https://img.shields.io/badge/EXCEL-%20blue)  
+![Static Badge](https://img.shields.io/badge/PYTHON-red) ![Static Badge](https://img.shields.io/badge/PANDAS-blue) ![Static Badge](https://img.shields.io/badge/NUMPY-%20thickblue) ![Static Badge](https://img.shields.io/badge/MATPLOTLIB-%20orange) ![Static Badge](https://img.shields.io/badge/SEABORN-%20red)  ![Static Badge](https://img.shields.io/badge/SQL-%20blue) 
 
 
 
