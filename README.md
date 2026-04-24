@@ -1,7 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Uma Obbani
 ==================================================================================================================================
 
-Data & AI
+
+Senior Data Analyst | Advanced Analytics & Machine Learning
 
 -----------------------------------------------------------------------------------------------------------------------------
 Passionate Data Analyst and aspiring Data Scientist with a strong foundation in Python, Machine Learning, and Natural Language Processing (NLP). I thrive on solving real-world problems through innovative, data-driven solutions that deliver measurable business impact.
