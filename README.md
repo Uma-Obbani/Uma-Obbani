@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Data Analyst  • Advanced Analytics | Machine Learning</b><br>
-  <i>I build pipelines, dashboards, and machine learning models that help businesses move faster and smarter.</i>
+  <i>I build dashboards, and machine learning models that help businesses move faster and smarter.</i>
 </p>
 
 ---
@@ -110,8 +110,8 @@ business-ready funnel & product metrics for BI dashboards.
 ## 🤝 Let’s Connect!
 
 📍 Berlin, Germany  
-🔗 **LinkedIn:**   
-📬 **Email:** 
+🔗 **LinkedIn:** https://www.linkedin.com/in/umaobbani/  
+📬 **Email:** umaobbani99@gmail.com
 
 ---
 
