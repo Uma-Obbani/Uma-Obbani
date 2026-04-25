@@ -63,7 +63,7 @@ End-to-end Lakehouse pipeline using Databricks & Spark to process incremental ec
 Implements Landing → Bronze → Silver → Gold layers with daily job orchestration and
 business-ready funnel & product metrics for BI dashboards.
 
-🔗 **Repo:** https://github.com/Sajithpemarathna/ecommerce-product-funnel-analytics-databricks
+🔗 **Repo:** https://github.com/Uma-Obbani/customer-segmentation
 
 ---
 
