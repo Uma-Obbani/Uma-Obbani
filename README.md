@@ -75,7 +75,7 @@ The project follows an end-to-end analytics workflow — from data preprocessing
 📌 *SQL • Python • ETL design • Tableau*  
 - Built a full analytics stack: raw → staging → dimension models  
 - Delivered insights on revenue, customer behavior & delivery delays  
-🔗 **Repo:** https://github.com/Sajithpemarathna/olist-ecommerce-analytics  
+---🔗 **Repo:** https://github.com/Secommerce-analytics  
 
 ---
 
@@ -83,13 +83,8 @@ The project follows an end-to-end analytics workflow — from data preprocessing
 📌 *SQL • Python • KPI engineering • Dashboarding*  
 - Identified aging stock, pricing gaps & margin leakage  
 - 54% unsold stock & 346+ day aging documented for action  
-🔗 **Repo:** https://github.com/Sajithpemarathna/Inventory-business-case
-
----
-
-### ⚡ **Energy Forecasting for Germany (MSc Thesis)**  
-📌 *ML (RF/XGBoost/LSTM) • SQL • Time-series analysis*  
-- Forecasts up to 2030 supporting sustainability & policy planning  
+--🔗 **Repo:** https://github.com/Inventory-business-case
+ 
 
 ---
 
