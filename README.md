@@ -57,7 +57,7 @@ I enjoy the full journey:
 
 ### 🛒 **Customer Segmentaion**
 
-📌 * • Python  • Machine Learning*
+📌 * Python, Machine Learning, Clustering (K-Means), Feature Engineering, Exploratory Data Analysis*
 
 ## Customer Segmentation for Targeted Marketing Strategy
 
