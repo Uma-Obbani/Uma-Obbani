@@ -1,44 +1,118 @@
-![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)✨ **Hi, I'm Uma — Turning Raw Data into Real Impact **✨
+<h1 align="center">✨ Hi, I'm Uma  Obbani ✨</h1>
+
+<p align="center">
+  <b>Data Analyst  • Advanced Analytics | Machine Learning</b><br>
+  <i>I build pipelines, dashboards, and machine learning models that help businesses move faster and smarter.</i>
+</p>
+
+---
+
+## 🚀 About Me
+
+I’m a **Senior Data Analyst**Designs scalable data systems that power decision-making
+
+I enjoy the full journey:  
+**Data → Insights → Decisions → Business Value.**
+
+---
+
+## 🧠 What I Do Best
 
 
-Senior Data Analyst 
------------------------------------------------------------------------------------------------------------------------------
-Passionate Data Analyst and aspiring Data Scientist with a strong foundation in Python, Machine Learning, and Natural Language Processing (NLP). I thrive on solving real-world problems through innovative, data-driven solutions that deliver measurable business impact.
+### 📊 Analytics & BI  
+- KPI engineering, cohort behavior, funnel analysis  
+- Dashboard design in **Tableau** & **Looker Studio**  
+- Business analytics for e-commerce, inventory, and operations  
 
-* 🌍  I'm based in Berlin , Germany
-* 🖥️  See my portfolio at [LinkedIn](http://www.linkedin.com/in/uobbani/ )
-* ✉️  You can contact me at [maheswaree@gmail.com](mailto:maheswaree@gmail.com)
+### 🤖 Machine Learning  
+- Forecasting (energy, sales, demand)  
+- Classification & regression (XGBoost, LSTM)  
+- MLflow tracking, evaluation metrics  
 
-<a href="https://www.github.com/Uma-Obbani" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Uma-Obbani?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+### 🎯 Experimentation  
+- A/B testing  
+- Uplift modeling  
+- ROI & causal insights  
 
-### Socials
+---
 
-<p align="left"> <a href="https://www.github.com/Uma-Obbani" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="Github" title="Github" /> </picture> </a></p>
+## 🛠 Tech Toolbox
 
-### Badges
+**Languages / DBs**  
+`SQL` • `Python` • `PostgreSQL` • `BigQuery`  
 
--------------------------------------------------------------------------------------------------------------------------------
-🛠 Tech Stack
+**ML / AI**  
+`XGBoost` • `Random Forest` • `LSTM` • `TensorFlow/Keras`
 
-📊 Data & Analysis
+**BI / Analytics Tools**  
+`Tableau` • `Looker Studio` • `Excel` • `GA4`,'Mixpanel'
 
-![Static Badge](https://img.shields.io/badge/PYTHON-red) ![Static Badge](https://img.shields.io/badge/PANDAS-blue) ![Static Badge](https://img.shields.io/badge/NUMPY-%20thickblue) ![Static Badge](https://img.shields.io/badge/MATPLOTLIB-%20orange) ![Static Badge](https://img.shields.io/badge/SEABORN-%20red)  ![Static Badge](https://img.shields.io/badge/SQL-%20blue) ![Static Badge](https://img.shields.io/badge/EXCEL-%20green)
+**Ops & Productivity**  
+`GitHub` • `Virtual Environments` • `Workflow automation`  
 
+---
 
-🧠 Machine & Deep Learning
-
-  ![Static Badge](https://img.shields.io/badge/SCKITLEARN-orange) ![Static Badge](https://img.shields.io/badge/TENSORFLOW-red) ![Static Badge](https://img.shields.io/badge/KERAS-blue) ![Static Badge](https://img.shields.io/badge/PYTORCH-green) ![Static Badge](https://img.shields.io/badge/OPENCV-%20red) 
-
-💬 NLP & Generative AI
-
- ![Static Badge](https://img.shields.io/badge/SPACY-blue)  ![Static Badge](https://img.shields.io/badge/NLTK-green)  ![Static Badge](https://img.shields.io/badge/TEXTBlob-red)
-  ![Static Badge](https://img.shields.io/badge/TENSORFLOW-red)
-
-
-🧰 Tools & Workflow
-
-![Static Badge](https://img.shields.io/badge/TABLEAU-blue) ![Static Badge](https://img.shields.io/badge/JUPYTER-green) ![Static Badge](https://img.shields.io/badge/COLAB-red) ![Static Badge](https://img.shields.io/badge/GIT-orange)
+## 🚀 Featured Work
 
 
+### 🛒 **Customer Segmentaion**
 
+📌 * • SQL*
+
+End-to-end Lakehouse pipeline using Databricks & Spark to process incremental ecommerce events.
+Implements Landing → Bronze → Silver → Gold layers with daily job orchestration and
+business-ready funnel & product metrics for BI dashboards.
+
+🔗 **Repo:** https://github.com/Sajithpemarathna/ecommerce-product-funnel-analytics-databricks
+
+---
+
+### 🛒 **Olist E-Commerce Analytics Pipeline**  
+📌 *SQL • Python • ETL design • Tableau*  
+- Built a full analytics stack: raw → staging → dimension models  
+- Delivered insights on revenue, customer behavior & delivery delays  
+🔗 **Repo:** https://github.com/Sajithpemarathna/olist-ecommerce-analytics  
+
+---
+
+### 🚗 **Used-Car Inventory & Pricing Analytics**  
+📌 *SQL • Python • KPI engineering • Dashboarding*  
+- Identified aging stock, pricing gaps & margin leakage  
+- 54% unsold stock & 346+ day aging documented for action  
+🔗 **Repo:** https://github.com/Sajithpemarathna/Inventory-business-case
+
+---
+
+### ⚡ **Energy Forecasting for Germany (MSc Thesis)**  
+📌 *ML (RF/XGBoost/LSTM) • SQL • Time-series analysis*  
+- Forecasts up to 2030 supporting sustainability & policy planning  
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced dbt patterns  
+- Workflow orchestration (Airflow-style)  
+- Scalable forecasting pipelines  
+- Behavioral analytics & uplift modeling  
+
+---
+
+## 🎨 Fun Facts About Me
+
+- I love creating **clean, story-driven dashboards**  
+- I enjoy projects where analytics directly changes business outcomes  
+- I like simplifying complex datasets into insights people *actually use*  
+- Big fan of ML models that solve practical, real-world problems  
+
+---
+
+## 🤝 Let’s Connect!
+
+📍 Berlin, Germany  
+🔗 **LinkedIn:**   
+📬 **Email:** 
+
+---
+
+<h3 align="center">✨ Thanks for visiting — let's build something amazing with data! ✨</h3>
