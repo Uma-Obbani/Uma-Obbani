@@ -57,11 +57,15 @@ I enjoy the full journey:
 
 ### 🛒 **Customer Segmentaion**
 
-📌 * • SQL*
+📌 * • Python  • Machine Learning*
 
-End-to-end Lakehouse pipeline using Databricks & Spark to process incremental ecommerce events.
-Implements Landing → Bronze → Silver → Gold layers with daily job orchestration and
-business-ready funnel & product metrics for BI dashboards.
+## Customer Segmentation for Targeted Marketing Strategy
+
+Developed a customer segmentation model to identify distinct user groups based on behavioral and transactional patterns.
+
+Applied clustering techniques (K-Means) combined with feature engineering to uncover meaningful segments, enabling more targeted marketing, improved personalization, and efficient budget allocation.
+
+The project follows an end-to-end analytics workflow — from data preprocessing and exploratory analysis to model development and insight generation — with a strong focus on translating data into actionable business decisions.
 
 🔗 **Repo:** https://github.com/Uma-Obbani/customer-segmentation
 
