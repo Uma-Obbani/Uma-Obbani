@@ -79,11 +79,11 @@ The project follows an end-to-end analytics workflow — from data preprocessing
 
 ---
 
-### 🚗 **Used-Car Inventory & Pricing Analytics**  
-📌 *SQL • Python • KPI engineering • Dashboarding*  
+###  **Bile Sales Analysis**  
+📌 *Tableau *  
 - Identified aging stock, pricing gaps & margin leakage  
 - 54% unsold stock & 346+ day aging documented for action  
---🔗 **Repo:** https://github.com/Inventory-business-case
+--🔗 **Repo:** https://public.tableau.com/app/profile/uma6510/viz/BikeSales_17772203354250/BikeSalesDashboard?publish=yes
  
 
 ---
