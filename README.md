@@ -75,7 +75,7 @@ The project follows an end-to-end analytics workflow — from data preprocessing
 📌 *SQL • Python • ETL design • Tableau*  
 - Built a full analytics stack: raw → staging → dimension models  
 - Delivered insights on revenue, customer behavior & delivery delays  
----🔗 **Repo:** https://github.com/Secommerce-analytics  
+---🔗 **Repo:** (https://github.com/Uma-Obbani/E-commerce-Analytics) 
 
 ---
 
